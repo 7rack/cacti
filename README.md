@@ -1,2 +1,2 @@
 # cacti
-cacti templates,scripts
+cacti templates, scripts
